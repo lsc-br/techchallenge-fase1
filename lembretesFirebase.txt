@@ -1,0 +1,8 @@
+Optar pelo default Flask eh eficiente.
+
+Precisa adicionar pkgs.python311Packages.pip em .idx/dev.nix
+
+Para usar o pip de boa nao pode esquecer de ativar a venv ao usar o terminar
+    source .venv/bin/activate
+
+Instalar a extensao Jupyter pela aba "Extensoes"
